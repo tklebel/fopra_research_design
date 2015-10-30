@@ -1,0 +1,29 @@
+
+
+/*********************
+* Title-Slide
+*********************/
+.reveal .title {
+	font-size: 2.2em;
+}
+
+.reveal .author {
+	font-size: 1.2em;
+}
+
+.reveal .date {
+	font-size: 1em;
+}
+
+
+/*
+.reveal h1 {
+  font-size: 2.3em; }
+
+.reveal h2 {
+  font-size: 1.5em; }
+
+.reveal h3 {
+  font-size: 1em; }
+
+*/
