@@ -101,6 +101,7 @@
 	color: #C44DAD;
 	margin: 0em;
 	border: thin dotted #C44DAD;
+	padding: .15em;
 }
 
 .reveal .field {
@@ -109,6 +110,7 @@
 	color: #96AE39;
 	margin: 0em;
 	border: thin dotted #96AE39;
+	padding: .15em;
 }
 
 /******************************
@@ -128,7 +130,7 @@
 }
 
 .reveal #design_leitfaden {
-	top: 35%;
+	top: 34%;
 	left: 40%;
 	width: 25%;
 }
@@ -147,7 +149,7 @@
 
 .reveal #beobachtung_2 {
 	bottom: 3%;
-	left: 40%;
+	left: 42%;
 	width: 28%;
 }
 
