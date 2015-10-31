@@ -74,19 +74,19 @@ date: 4. November 2015
 
 <p class="fragment design" data-fragment-index="2" id="trennung">Trennung der Gruppe in quali. und quanti.</p>
 
-<!-- 
-- Vorschau auf zweites Semester
-    + Um Ostern herum die quantitative Erhebung ausschicken
-        * Drei Wochen später Erinnerung
-    + Ende April sollten dann die Daten da sein
-    + Quantitative Auswertung im Mai
-    + Zusammenführen der Auswertungen im Mai
- -->
+<p class="fragment design" data-fragment-index="2" id="fragebogen">Erstellung des Fragebogens</p>
+
+<p class="fragment design" data-fragment-index="2" id="auswertung_interviews_2">Fortsetzung: Auswertung Interviews</p>
+
+<p class="fragment design" data-fragment-index="2" id="auswertung_quant">Auswertung quantitative Erhebung</p>
+
+<p class="fragment field" data-fragment-index="3" id="interviews_3">Fortsetzung: Qualitative Interviews</p>
+
+<p class="fragment field" data-fragment-index="3" id="erhebung_fragebogen">Quantitative Erhebung</p>
 
 </div>
 
 
-## Meilensteine
 
 # Offenes
 

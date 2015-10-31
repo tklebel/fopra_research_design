@@ -167,8 +167,37 @@
 
 
 .reveal #trennung {
-	top: 20%;
+	top: 28%;
 	left: 0%;
 	width: 25%;
 }
 
+.reveal #fragebogen {
+	top: 0%;
+	left: 15%;
+	width: 25%;
+}
+
+.reveal #auswertung_interviews_2 {
+	top: 17%;
+	left: 0%;
+	width: 50%;
+}
+
+.reveal #auswertung_quant {
+	top: 35%;
+	right: 0%;
+	width: 40%;
+}
+
+.reveal #interviews_3 {
+	bottom: 22%;
+	left: 0%;
+	width: 40%;
+}
+
+.reveal #erhebung_fragebogen {
+	bottom: 0%;
+	left: 25%;
+	width: 35%;
+}
