@@ -8,6 +8,9 @@ date: 4. November 2015
 
 ## Fragestellung
 
+> Welche Rolle spielt soziales Kapital beim Beitritt, in der aktiven Phase und in der Zeit ab dem Abschluss des Studiums für Mitglieder von Verbindungen in Graz, die im ÖCV organisiert sind?
+
+
 # Einführung in das Feld
 
 
@@ -69,10 +72,10 @@ date: 4. November 2015
 <p id="april">April</p>
 <p id="jan">Mai</p>
 
+<p class="fragment design" data-fragment-index="2" id="trennung">Trennung der Gruppe in quali. und quanti.</p>
 
 <!-- 
 - Vorschau auf zweites Semester
-    + evtl. ab Anfang März Teilung der Gruppe in quali und quanti
     + Um Ostern herum die quantitative Erhebung ausschicken
         * Drei Wochen später Erinnerung
     + Ende April sollten dann die Daten da sein

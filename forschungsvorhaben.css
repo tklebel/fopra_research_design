@@ -92,7 +92,7 @@
 }
 
 /******************************
-* Content  
+* Classes for design and field
 ******************************/
 
 .reveal .design {
@@ -100,10 +100,20 @@
 	font-size: .7em;
 	color: #C44DAD;
 	margin: 0em;
-	border-style: dotted;
-	border-width: thin;
-	border-color: #C44DAD;
+	border: thin dotted #C44DAD;
 }
+
+.reveal .field {
+	position: absolute;
+	font-size: .7em;
+	color: #96AE39;
+	margin: 0em;
+	border: thin dotted #96AE39;
+}
+
+/******************************
+* Content  
+******************************/
 
 .reveal #design {
 	top: 20%;
@@ -129,16 +139,6 @@
 	width: 60%;
 }
 
-.reveal .field {
-	position: absolute;
-	font-size: .7em;
-	color: #96AE39;
-	margin: 0em;
-	border-style: dotted;
-	border-width: thin;
-	border-color: #96AE39;
-}
-
 .reveal #beobachtung_1 {
 	bottom: 0%;
 	left: 11%;
@@ -162,3 +162,13 @@
 	right: 0%;
 	width: 35%;
 }
+
+/* Sommersemester */
+
+
+.reveal #trennung {
+	top: 20%;
+	left: 0%;
+	width: 25%;
+}
+
