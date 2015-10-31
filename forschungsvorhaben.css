@@ -26,3 +26,86 @@
 .reveal h3 {
   font-size: 1em; }
 
+
+
+/* Graphs for timeline */
+
+.reveal #base {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.reveal #line {
+    width: 90%;
+    height: 5px;
+    background: #333;
+    position: absolute;
+    left: 5%;
+    top: 50%;
+}
+
+.reveal #nov_dez {
+    width: 3px;
+    height: 10%;
+    background: #333;
+    position: absolute;
+    left: 35%;
+    top: 50%;
+}
+
+.reveal #dez_jan {
+    width: 3px;
+    height: 10%;
+    background: #333;
+    position: absolute;
+    left: 65%;
+    top: 50%;
+}
+
+.reveal #nov {
+	position: absolute;
+	top: 47%;
+	left: 5%;
+}
+
+.reveal #dez {
+	position: absolute;
+	top: 47%;
+	right: 40%;
+}
+
+.reveal #jan {
+	position: absolute;
+	top: 47%;
+	right: 5%;
+}
+
+.reveal #design {
+	position: absolute;
+	top: 20%;
+	left: -2%;
+	font-size: .7em;
+	color: #C44DAD;
+	width: 25%;
+}
+
+.reveal #design_ende {
+	position: absolute;
+	top: 0%;
+	left: 15%;
+	font-size: .7em;
+	color: #C44DAD;
+	width: 25%;
+}
+
+.reveal #beobachtung_1 {
+	position: absolute;
+	bottom: 0%;
+	left: 17%;
+	font-size: .7em;
+	color: #ADC44D;
+	width: 28%;
+}
