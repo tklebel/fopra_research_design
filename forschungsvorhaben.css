@@ -28,14 +28,16 @@
 
 
 
-/* Graphs for timeline */
+/******************************* 
+* Graphs for timeline
+*******************************/
 
 .reveal #base {
     width: 100%;
     height: 500px;
     position: relative;
     margin-top: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 0em;
 }
 
 .reveal #line {
@@ -83,29 +85,62 @@
 	right: 5%;
 }
 
-.reveal #design {
+.reveal #april {
 	position: absolute;
-	top: 20%;
-	left: -2%;
+	top: 47%;
+	right: 46%;
+}
+
+/******************************
+* Content  
+******************************/
+
+.reveal .design {
+	position: absolute;
 	font-size: .7em;
 	color: #C44DAD;
+	margin: 0em;
+	border-style: dotted;
+	border-width: thin;
+	border-color: #C44DAD;
+}
+
+.reveal #design {
+	top: 20%;
+	left: -2%;
 	width: 25%;
 }
 
 .reveal #design_ende {
-	position: absolute;
 	top: 0%;
 	left: 15%;
-	font-size: .7em;
-	color: #C44DAD;
 	width: 25%;
 }
 
-.reveal #beobachtung_1 {
+.reveal .field {
 	position: absolute;
-	bottom: 0%;
-	left: 17%;
 	font-size: .7em;
 	color: #ADC44D;
+	margin: 0em;
+	border-style: dotted;
+	border-width: thin;
+	border-color: #ADC44D;
+}
+
+.reveal #beobachtung_1 {
+	bottom: 0%;
+	left: 11%;
 	width: 28%;
+}
+
+.reveal #beobachtung_2 {
+	bottom: 3%;
+	left: 40%;
+	width: 28%;
+}
+
+.reveal #interviews_1 {
+	bottom: 25%;
+	left: 18%;
+	width: 40%;
 }

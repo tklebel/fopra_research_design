@@ -37,26 +37,24 @@ date: 4. November 2015
 
 
 <div id="base">
-<div class="fragment" data-fragment-index="1" id="line"></div>
-<div class="fragment" data-fragment-index="1" id="nov_dez"></div>
-<div class="fragment" data-fragment-index="1" id="dez_jan"></div>
-<p class="fragment" data-fragment-index="1" id="nov">Novmeber</p>
-<p class="fragment" data-fragment-index="1" id="dez">Dezember</p>
-<p class="fragment" data-fragment-index="1" id="jan">Jänner</p>
-<p class="fragment" data-fragment-index="2" id="design"><i>4.11.</i> Vorstellung des Designs</p>
-<p class="fragment" data-fragment-index="2" id="design_ende"> <i>25.11.</i> Endversion qualitatives Design</p>
+<div id="line"></div>
+<div id="nov_dez"></div>
+<div id="dez_jan"></div>
+<p id="nov">Novmeber</p>
+<p id="dez">Dezember</p>
+<p id="jan">Jänner</p>
+<p class="fragment design" data-fragment-index="2" id="design"><i>4.11.</i> Vorstellung des Designs</p>
+<p class="fragment design" data-fragment-index="2" id="design_ende"><i>25.11.</i> Endversion qualitatives Design</p>
 
-<p class="fragment" data-fragment-index="3" id="beobachtung_1"> <i>28.11.</i> 1. Beobachtung: Glühweintrinken</p>
+<p class="fragment field" data-fragment-index="3" id="beobachtung_1"><i>28.11.</i> 1. Beobachtung: Glühweintrinken</p>
+
+<p class="fragment field" data-fragment-index="3" id="interviews_1">Explorative Interviews</p>
+
+<p class="fragment field" data-fragment-index="3" id="beobachtung_2"><i>18.12.</i> 2. Beobachtung: Weihnachtsfeier</p>
 
 <!-- 
-- 4.11. Erste Vorstellung des Designs
-- 25.11. Endversion des qualitativen, explorativen Designs, inkl. theoretischer Rahmung
 
-
-- 28.11. Glühweintrinken (intern) (1. Beobachtung, Verbindung 1)
 - 4 explorative Interviews in der Phase dazwischen (bis 18.12.)
-- 18.12. Weihnachtsfeier (2. Beobachtung, Verbindung 1: strukturierter)
-- Termine für die zweite Verbindung ergeben sich
 - Ab 18.12
     + Auswertung explorative Phase
 - Ab Januar
@@ -67,8 +65,28 @@ date: 4. November 2015
 </div>
 
 
+## Sommersemester
+
+<div id="base">
+<div id="line"></div>
+<div id="nov_dez"></div>
+<div id="dez_jan"></div>
+<p id="nov">März</p>
+<p id="april">April</p>
+<p id="jan">Mai</p>
 
 
+<!-- 
+- Vorschau auf zweites Semester
+    + evtl. ab Anfang März Teilung der Gruppe in quali und quanti
+    + Um Ostern herum die quantitative Erhebung ausschicken
+        * Drei Wochen später Erinnerung
+    + Ende April sollten dann die Daten da sein
+    + Quantitative Auswertung im Mai
+    + Zusammenführen der Auswertungen im Mai
+ -->
+
+</div>
 
 
 ## Meilensteine
