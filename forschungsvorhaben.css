@@ -117,14 +117,26 @@
 	width: 25%;
 }
 
+.reveal #design_leitfaden {
+	top: 35%;
+	left: 40%;
+	width: 25%;
+}
+
+.reveal #auswertung_interviews {
+	top: 20%;
+	right: 0%;
+	width: 60%;
+}
+
 .reveal .field {
 	position: absolute;
 	font-size: .7em;
-	color: #ADC44D;
+	color: #96AE39;
 	margin: 0em;
 	border-style: dotted;
 	border-width: thin;
-	border-color: #ADC44D;
+	border-color: #96AE39;
 }
 
 .reveal #beobachtung_1 {
@@ -143,4 +155,10 @@
 	bottom: 25%;
 	left: 18%;
 	width: 40%;
+}
+
+.reveal #interviews_2 {
+	bottom: 25%;
+	right: 0%;
+	width: 35%;
 }

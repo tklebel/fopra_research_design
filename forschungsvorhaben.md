@@ -34,8 +34,6 @@ date: 4. November 2015
 
 ## Wintersemester
 
-
-
 <div id="base">
 <div id="line"></div>
 <div id="nov_dez"></div>
@@ -46,21 +44,17 @@ date: 4. November 2015
 <p class="fragment design" data-fragment-index="2" id="design"><i>4.11.</i> Vorstellung des Designs</p>
 <p class="fragment design" data-fragment-index="2" id="design_ende"><i>25.11.</i> Endversion qualitatives Design</p>
 
+<p class="fragment design" data-fragment-index="2" id="design_leitfaden">Erstellung des Leitfadens</p>
+
+<p class="fragment design" data-fragment-index="2" id="auswertung_interviews">Auswertung der Interviews</p>
+
 <p class="fragment field" data-fragment-index="3" id="beobachtung_1"><i>28.11.</i> 1. Beobachtung: Glühweintrinken</p>
 
 <p class="fragment field" data-fragment-index="3" id="interviews_1">Explorative Interviews</p>
 
 <p class="fragment field" data-fragment-index="3" id="beobachtung_2"><i>18.12.</i> 2. Beobachtung: Weihnachtsfeier</p>
 
-<!-- 
-
-- 4 explorative Interviews in der Phase dazwischen (bis 18.12.)
-- Ab 18.12
-    + Auswertung explorative Phase
-- Ab Januar
-    + Teilstrukturierte qualitative Erhebung
-- Ende Jänner: Zwischenbericht abgeben
- -->
+<p class="fragment field" data-fragment-index="3" id="interviews_2">Teilstrukturierte Interviews</p>
 
 </div>
 
