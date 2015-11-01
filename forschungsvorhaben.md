@@ -43,9 +43,29 @@ date: 4. November 2015
 </div>
 
 # Theorie
-## Kapitalien
-> Ein Literaturzitat
+## Kapital
+Bourdieu unterteilt den Begriff des Kapitals in:
 
+-   ökonomisches Kapital
+-   kulturelles Kapital
+-   soziales Kapital
+
+<div class="source"><i>Quelle:</i> Pierre Bourdieu: <i>Ökonomisches Kapital, kulturelles Kapital, soziales Kapital</i> In: Reinhard Kreckel (Hg.): <i>Soziale Ungleichheiten (Soziale Welt Sonderband 2)</i>, Göttingen 1983, S. 183-198</div>
+
+## Kulturelles Kapital
+
+-   inkorporiertes Kapital
+-   objektiviertes Kapital
+-   institutionalisiertes Kapital
+
+<div class="source"><i>Quelle:</i> Pierre Bourdieu: <i>Ökonomisches Kapital, kulturelles Kapital, soziales Kapital</i> In: Reinhard Kreckel (Hg.): <i>Soziale Ungleichheiten (Soziale Welt Sonderband 2)</i>, Göttingen 1983, S. 183-198</div>
+
+## Soziales Kapital
+-   setzt sich aus einem Netz sozialer Beziehungen zusammen
+-   eine Gruppe basiert auf Homogenität der Gruppenmitglieder (gegenseitige Anerkennung)
+-   Mithilfe der Gruppe kann soziales Kapital reproduziert werden und daraus unter anderem ökonomischer Nutzen erzielt werden
+
+<div class="source"><i>Quelle:</i> Pierre Bourdieu: <i>Ökonomisches Kapital, kulturelles Kapital, soziales Kapital</i> In: Reinhard Kreckel (Hg.): <i>Soziale Ungleichheiten (Soziale Welt Sonderband 2)</i>, Göttingen 1983, S. 183-198</div>
 
 ## Konzeption des Habitus
 > „Wahrnehmungs-, Denk- und Handlungsschemata“ (Bourdieu 1987 [1980]: 101) eines Menschen, in denen sämtliche inkorporierte frühere soziale Erfahrungen zum Ausdruck kommen.
