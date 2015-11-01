@@ -4,14 +4,14 @@ author: Frohmann, Klebel, Schirgi, Valentin
 date: 4. November 2015
 ---
 
-# Einleitung
+# Fragestellung
 
-## Fragestellung
+--------
 
 > Welche Rolle spielt soziales Kapital beim Beitritt, in der aktiven Phase und in der Zeit ab dem Abschluss des Studiums für Mitglieder von Verbindungen in Graz, die im ÖCV organisiert sind?
 
 
-# Einführung in das Feld
+# Feld
 ## Hochschulverbindungslandschaft in Österreich
 
 GRAFIK FEHLT NOCH
