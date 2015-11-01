@@ -22,7 +22,15 @@
  	font-size: 2.5em;
 	text-transform: capitalize;
 	font-variant: small-caps;
+	margin-bottom: .8em;
  }
+
+.reveal .source {
+	position: absolute;
+	bottom: -5em;
+	font-size: .6em;
+	width: 100%;
+}
 
 
 /*********************
@@ -54,10 +62,11 @@
 
 .reveal #hochschulverbindungslandschaft-in-österreich h1 {
 	font-size: 2em;
+	margin-bottom: .2em;
 }
-
-
-
+.reveal #hochschulverbindungslandschaft-in-österreich img {
+	max-width: 80%;
+}
 
 
 /******************************* 
