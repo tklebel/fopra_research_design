@@ -51,7 +51,7 @@ date: 4. November 2015
 > „Wahrnehmungs-, Denk- und Handlungsschemata“ (Bourdieu 1987 [1980]: 101) eines Menschen, in denen sämtliche inkorporierte frühere soziale Erfahrungen zum Ausdruck kommen.
 
 
-<div class="source"><i>Quelle:</i> (Lenger; Schneickert; Schumacher: 14)</div>
+<div class="source"><i>Quelle:</i> (Lenger; Schneickert; Schumacher 2013: 14)</div>
 
 
 
