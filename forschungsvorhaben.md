@@ -14,13 +14,21 @@ date: 4. November 2015
 # Feld
 ## Hochschulverbindungslandschaft in Österreich
 
-GRAFIK FEHLT NOCH
+![](grafik_antonia.png)
+
+<div class="source">Eigene Darstellung.
+
+<i>Quelle:</i> Hartmann, Gerhard. 2001. Der CV in Österreich. Seine Entstehung. Seine Geschichte. Seine Bedeutung. 3. Aufl. Limburg-Kevelaer: Lahn Verlag
+</div>
 
 ## ÖCV
 
 - Österreichischer Cartellverband
 - 48 Verbindungen
 - rund 12.500 Mitgliedern
+
+<div class="source"><i>Quelle:</i> Homepage des ÖCV. Abrufbar unter: https://www.oecv.at/ [31.10.2015]
+</div>
 
 ## Prinzipien
 
@@ -31,14 +39,28 @@ GRAFIK FEHLT NOCH
 - *Lebensfreundschaft*
 - *Vaterlandsliebe*
 
+<div class="source"><i>Quelle:</i> Hartmann, Gerhard. 2001. Der CV in Österreich. Seine Entstehung. Seine Geschichte. Seine Bedeutung. 3. Aufl. Limburg-Kevelaer: Lahn Verlag
+</div>
 
 # Theorie
 ## Kapitalien
 > Ein Literaturzitat
 
 
-## Habitus
-> Noch ein Literaturzitat
+## Konzeption des Habitus
+> „Wahrnehmungs-, Denk- und Handlungsschemata“ (Bourdieu 1987 [1980]: 101) eines Menschen, in denen sämtliche inkorporierte frühere soziale Erfahrungen zum Ausdruck kommen.
+
+
+<div class="source"><i>Quelle:</i> (Lenger; Schneickert; Schumacher: 14)</div>
+
+
+
+
+## Theorie der Praxis
+
+>[(Habitus) (Kapital)] + Feld = Praxis
+
+<div class="source"><i>Quelle:</i> (Bourdieu 1982 [1979]: 175)</div>
 
 
 # Methodik
