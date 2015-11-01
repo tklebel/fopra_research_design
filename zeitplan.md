@@ -24,3 +24,11 @@ Aufteilen in zwei Semester:
 
 ## Sommersemester
 
+- Vorschau auf zweites Semester
+    + evtl. ab Anfang März Teilung der Gruppe in quali und quanti
+    + Um Ostern herum die quantitative Erhebung ausschicken
+        * Drei Wochen später Erinnerung
+    + Ende April sollten dann die Daten da sein
+    + Quantitative Auswertung im Mai
+    + Zusammenführen der Auswertungen im Mai
+
