@@ -14,7 +14,25 @@ date: 4. November 2015
 # Einführung in das Feld
 
 
-## Begriffsdefinitionen
+## Hochschulverbindungslandschaft in Österreich
+
+GRAFIK FEHLT NOCH
+
+## ÖCV
+
+- Österreichischer Kartellverband
+- 48 Verbindungen
+- rund 12.500 Mitgliedern
+
+## Prinzipien
+
+- Farbtragend
+- Antiduellität
+- *Katholizität*
+- *Wissenschaftlichkeit*
+- *Lebensfreundschaft*
+- *Vaterlandsliebe*
+
 
 # Theorie
 
@@ -29,9 +47,31 @@ date: 4. November 2015
 
 ## Beobachtung
 
-## Interviews
+- Offen
+- Teilnehmend
+- Deskriptive Beobachtung
+- Fokussierte Beobachtung
+- Dokumentation:
+    + Feldtagebuch
 
-## Fragebogen
+## Qualitative Interviews 1
+
+- Erster Schritt:
+    + explorativ
+    + vier narrativ-biographische Interviews
+    + Falldarstellungen
+
+## Qualitative Interviews 2
+
+- Zweiter Schritt
+    + Halbstandardisierte oder Leitfadeninterviews
+    + Vorgehen nach *Grounded Theory*
+- Sampling:
+    + 8-12 Interviews
+    + Theoretical Sampling
+- Auswertung:
+    + Codieren
+
 
 # Zeitplan
 
