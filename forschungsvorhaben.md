@@ -12,8 +12,6 @@ date: 4. November 2015
 
 
 # Einführung in das Feld
-
-
 ## Hochschulverbindungslandschaft in Österreich
 
 GRAFIK FEHLT NOCH
@@ -35,7 +33,6 @@ GRAFIK FEHLT NOCH
 
 
 # Theorie
-
 ## Kapitalien
 > Ein Literaturzitat
 
@@ -43,8 +40,8 @@ GRAFIK FEHLT NOCH
 ## Habitus
 > Noch ein Literaturzitat
 
-# Methodik
 
+# Methodik
 ## Beobachtung
 
 - Offen
@@ -56,16 +53,14 @@ GRAFIK FEHLT NOCH
 
 ## Qualitative Interviews 1
 
-- Erster Schritt:
-    + explorativ
-    + vier narrativ-biographische Interviews
-    + Falldarstellungen
+- explorativ
+- vier narrativ-biographische Interviews
+- Falldarstellungen
 
 ## Qualitative Interviews 2
 
-- Zweiter Schritt
-    + Halbstandardisierte oder Leitfadeninterviews
-    + Vorgehen nach *Grounded Theory*
+- Halbstandardisierte oder Leitfadeninterviews
+- Vorgehen nach *Grounded Theory*
 - Sampling:
     + 8-12 Interviews
     + Theoretical Sampling
@@ -74,7 +69,6 @@ GRAFIK FEHLT NOCH
 
 
 # Zeitplan
-
 ## Wintersemester
 
 <div id="base">
@@ -129,7 +123,6 @@ GRAFIK FEHLT NOCH
 
 
 # Offenes
-
 ## Fragen ans Plenum
 
 - Frage 1
