@@ -18,7 +18,7 @@ GRAFIK FEHLT NOCH
 
 ## ÖCV
 
-- Österreichischer Kartellverband
+- Österreichischer Cartellverband
 - 48 Verbindungen
 - rund 12.500 Mitgliedern
 
