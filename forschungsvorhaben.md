@@ -107,11 +107,11 @@ date: 4. November 2015
 
 <p class="fragment design" data-fragment-index="2" id="auswertung_interviews">Auswertung der Interviews</p>
 
-<p class="fragment field" data-fragment-index="3" id="beobachtung_1"><i>28.11.</i> 1. Beobachtung: Glühweintrinken</p>
+<p class="fragment field" data-fragment-index="3" id="beobachtung_1"><i>28.11.</i> 1. Beobachtung</p>
 
 <p class="fragment field" data-fragment-index="3" id="interviews_1">Explorative Interviews</p>
 
-<p class="fragment field" data-fragment-index="3" id="beobachtung_2"><i>18.12.</i> 2. Beobachtung: Weihnachtsfeier</p>
+<p class="fragment field" data-fragment-index="3" id="beobachtung_2"><i>18.12.</i> 2. Beobachtung</p>
 
 <p class="fragment field" data-fragment-index="3" id="interviews_2">Teilstrukturierte Interviews</p>
 
