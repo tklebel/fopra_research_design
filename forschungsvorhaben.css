@@ -1,3 +1,28 @@
+/*************************
+* General settings
+*************************/
+
+.reveal h1 {
+  font-size: 2.3em; }
+
+.reveal h2 {
+  font-size: 1.5em; }
+
+.reveal h3 {
+  font-size: 1em; }
+
+
+.reveal blockquote {
+	width: 90%;
+}
+
+
+/*Headers of nested slides*/
+.reveal .level2 h1 {
+ 	font-size: 2.5em;
+	text-transform: capitalize;
+	font-variant: small-caps;
+ }
 
 
 /*********************
@@ -8,23 +33,29 @@
 }
 
 .reveal .author {
-	font-size: 1.2em;
+	font-size: 1.4em;
+	text-transform: capitalize;
+	font-variant: small-caps;
+	margin-bottom: 1.5em;
 }
 
 .reveal .date {
 	font-size: 1em;
+	text-transform: capitalize;
+	font-variant: small-caps;
 }
 
 
 
-.reveal h1 {
-  font-size: 2.3em; }
+/*******************************
+* Einführung ins Feld 
+*******************************/
 
-.reveal h2 {
-  font-size: 1.5em; }
+.reveal #hochschulverbindungslandschaft-in-österreich h1 {
+	font-size: 2em;
+}
 
-.reveal h3 {
-  font-size: 1em; }
+
 
 
 
@@ -90,6 +121,7 @@
 	top: 47%;
 	right: 46%;
 }
+
 
 /******************************
 * Classes for design and field
