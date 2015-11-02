@@ -71,7 +71,7 @@ Bourdieu unterteilt den Begriff des Kapitals in:
 > „Wahrnehmungs-, Denk- und Handlungsschemata“ (Bourdieu 1987 [1980]: 101) eines Menschen, in denen sämtliche inkorporierte frühere soziale Erfahrungen zum Ausdruck kommen.
 
 
-<div class="source"><i>Quelle:</i> Bourdieu, Pierre: <i>Die feinen Unterschiede. Kritik der gesellschaftlichen Urteilskraft.</i> Frankfurt am Main: Suhrkamp 1987 [1980], S. 101 In: Lenger, Alexander; Schneickert, Christian; Schumacher, Florian: <i>Pierre Bourdieus Konzeption des Habitus. Grundlagen, Zugänge, Forschungsperspektive.</i> Springer VS Wiesbaden 2013, S. 14)</div>
+<div class="source"><i>Quelle:</i> Bourdieu, Pierre: <i>Die feinen Unterschiede. Kritik der gesellschaftlichen Urteilskraft.</i> Frankfurt am Main: Suhrkamp 1987 [1980], S. 101 In: Lenger, Alexander; Schneickert, Christian; Schumacher, Florian: <i>Pierre Bourdieus Konzeption des Habitus. Grundlagen, Zugänge, Forschungsperspektive.</i> Springer VS Wiesbaden 2013, S. 14</div>
 
 
 
