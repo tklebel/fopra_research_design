@@ -15,3 +15,10 @@ self_contained.html: forschungsvorhaben.md forschungsvorhaben.css
 	--css=forschungsvorhaben.css \
 	-V transition=convex \
 	--self-contained
+
+live:
+	git push
+	git checkout gh-pages
+	git merge master
+	git push
+	git checkout master
