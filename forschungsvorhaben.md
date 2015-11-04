@@ -1,5 +1,5 @@
 ---
-title: Forschungsvorhaben
+title: "Mitglied in Grazer Studentenverbindungen: *Durch* und *als* soziales Kapital?"
 author: Frohmann, Klebel, Schirgi, Valentin
 date: 4. November 2015
 ---
@@ -167,9 +167,8 @@ Bourdieu unterteilt den Begriff des Kapitals in:
 # Offenes
 ## Fragen ans Plenum
 
-- Frage 1
-- Frage 2
-- Frage 3
+- Welche Anmerkungen/Anregungen habt ihr zu unserem methodischen Vorgehen?
+- Was würde euch an Studentenverbindungen interessieren?
 
 
 <!-- To change keyboard bindings for remote presentation tool:

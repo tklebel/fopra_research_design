@@ -37,12 +37,12 @@
 * Title-Slide
 *********************/
 .reveal .title {
-	font-size: 2.2em;
+	font-size: 1.2em;
 	padding-top: 1.5em;
 }
 
 .reveal .author {
-	font-size: 1.4em;
+	font-size: 1.2em;
 	text-transform: capitalize;
 	font-variant: small-caps;
 	margin-bottom: 1.5em;
